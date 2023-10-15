@@ -1,0 +1,68 @@
+[
+    {
+        "id": "b9e54f3a-7e11-4b0a-94c3-b7e27e601044",
+        "name": "Olma",
+        "price": 5000,
+        "address": ""
+    },
+    {
+        "id": "e92e065d-fb5c-407a-a0d5-1c38491b6624",
+        "name": "Coca Cola",
+        "price": 10000,
+        "address": ""
+    },
+    {
+        "id": "72a332f7-08c4-4091-884b-6e9504f692b2",
+        "name": "Lavash",
+        "price": 20000,
+        "address": ""
+    },
+    {
+        "id": "a4af3ed3-dcc1-48cf-88ac-55de342369ce",
+        "name": "Sok",
+        "price": 11000,
+        "address": ""
+    },
+    {
+        "id": "bc5c5521-2f0f-40ba-b319-3c914b8c8c63",
+        "name": "Sut",
+        "price": 8000,
+        "address": ""
+    },
+    {
+        "id": "e7e358d3-d466-406c-aa71-d8941034e3d4",
+        "name": "Baliq",
+        "price": 40000,
+        "address": ""
+    },
+    {
+        "id": "f6db138a-a1a0-47b2-94ff-d9972ed8a10d",
+        "name": "Muzqaymoq Snikers",
+        "price": 14000,
+        "address": ""
+    },
+    {
+        "id": "662a8646-fa67-4800-8e07-75bd8a7863a1",
+        "name": "Qo'y go'shti",
+        "price": 100000,
+        "address": "Chilonzor"
+    },
+    {
+        "id": "",
+        "name": "adkjnvlkjds",
+        "price": 1000,
+        "address": "alskjngflkajs"
+    },
+    {
+        "id": "",
+        "name": "adkjnvlkjds",
+        "price": 1000,
+        "address": "alskjngflkajs"
+    },
+    {
+        "id": "",
+        "name": "adkjnvlkjds",
+        "price": 1000,
+        "address": "aaaaaaaaaaa"
+    }
+]
